@@ -1,5 +1,5 @@
 body {
-  background-color: darkgray;
+  background-color: white;
 }
 
 header {
@@ -9,7 +9,7 @@ header {
 }
 
 header, section {
-  background-color: white;
+  background-color: lightgray;
   color: black;
 }
 
